@@ -1,0 +1,3 @@
+- [Immaculate Constellation Report, in Congressional Record](https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf)
+- [Immaculate Constellation Report PDF, backed up here](./immaculate-constellation-report.pdf)
+- [Immaculate Constellation Report, in plain text](./immaculate-constellation-report.txt)
