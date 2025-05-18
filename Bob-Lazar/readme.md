@@ -1,7 +1,7 @@
 ## All Bob Lazar Interviews
 - 1989: [Interview with George Knapp](https://www.youtube.com/watch?v=CY5LxACsYI4)
 - 1989: [Sci-Fi Interview](https://www.youtube.com/watch?v=KjApDnCvh2c)
-    - Body Language Analysis: https://www.youtube.com/watch?v=DOj_BMFLhrk
+    - [Body Language Analysis](https://www.youtube.com/watch?v=DOj_BMFLhrk)
 - 1990: [UFOs The Best Evidence](https://www.youtube.com/watch?v=EjYTIYwCpQg)
 - 1992: [Interview with Art Bell](https://www.youtube.com/watch?v=lfJypiLPOKc)
 - 1993: [Little Al'e'inn Symposium](https://www.youtube.com/watch?v=bA1TvhJKv8s)
