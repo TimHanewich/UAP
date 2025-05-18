@@ -14,4 +14,4 @@
 - 2009: [Radio Interview with George Knapp](https://www.youtube.com/watch?v=Ed9EVZYCBGY)
 - 2014: [25 Years Later](https://www.youtube.com/watch?v=RefHq3UZSkM)
 - 2018: [Larry King Show](https://www.youtube.com/watch?v=q1RYU8iKLrA)
-- 2019: [Joe Rogan Podcast](https://www.youtube.com/watch?v=BEWz4SXfyCQ)
+- 2019: [Joe Rogan Podcast](./rogan/)
