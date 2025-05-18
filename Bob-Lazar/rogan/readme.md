@@ -1,2 +1,17 @@
-# Bob Lazar on the Joe Rogan Podcast
-https://www.youtube.com/watch?v=BEWz4SXfyCQ
+## All Bob Lazar Interviews
+- 1989: [Interview with George Knapp](https://www.youtube.com/watch?v=CY5LxACsYI4)
+- 1989: [Sci-Fi Interview](https://www.youtube.com/watch?v=KjApDnCvh2c)
+    - Body Language Analysis: https://www.youtube.com/watch?v=DOj_BMFLhrk
+- 1990: [UFOs The Best Evidence](https://www.youtube.com/watch?v=EjYTIYwCpQg)
+- 1992: [Interview with Art Bell](https://www.youtube.com/watch?v=lfJypiLPOKc)
+- 1993: [Little Al'e'inn Symposium](https://www.youtube.com/watch?v=bA1TvhJKv8s)
+- 1997: [Art Bell Coast to Coast](https://soundcloud.com/bestartbellpodcast/1997-09-26-coast-to-coast-am-with-art-bell-bob-lazar-ufos-and-area-51)
+- 1997: [Interview with Don Garlits](https://www.youtube.com/watch?v=PmclCzGFotM)
+- 1997: [Paranormal World with Paul McKenna](https://www.youtube.com/watch?v=Og1ybql1CtE)
+- 1997: [Interview with Art Bell](https://www.youtube.com/watch?v=bFM--edZ238)
+- 2002: [Interview with Art Bell](https://www.youtube.com/watch?v=_91ZSTc9T-s)
+- 2003: [Interview with Art Bell](https://www.youtube.com/watch?v=9QjPm24lhC0)
+- 2009: [Radio Interview with George Knapp](https://www.youtube.com/watch?v=Ed9EVZYCBGY)
+- 2014: [25 Years Later](https://www.youtube.com/watch?v=RefHq3UZSkM)
+- 2018: [Larry King Show](https://www.youtube.com/watch?v=q1RYU8iKLrA)
+- 2019: [Joe Rogan Podcast](https://www.youtube.com/watch?v=BEWz4SXfyCQ)
