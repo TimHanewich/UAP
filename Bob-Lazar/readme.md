@@ -1,4 +1,6 @@
 ## All Bob Lazar Interviews
+- 1989: ["Dennis" Interview](./dennis/)
+- 1989: [First interview as himself](https://www.youtube.com/watch?v=I9EnIRhhtf4)
 - 1989: [Interview with George Knapp](https://www.youtube.com/watch?v=CY5LxACsYI4)
 - 1989: [Sci-Fi Interview](https://www.youtube.com/watch?v=KjApDnCvh2c)
     - [Body Language Analysis](https://www.youtube.com/watch?v=DOj_BMFLhrk)
