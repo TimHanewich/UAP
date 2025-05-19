@@ -5,7 +5,7 @@
 - 1989: [Sci-Fi Interview](./sci-fi/)
 - 1990: [UFOs The Best Evidence](https://www.youtube.com/watch?v=EjYTIYwCpQg)
 - 1992: [Art Bell Coast to Coast](./art-bell/coast-to-coast-1992/)
-- 1993: [Little Al'e'inn Symposium](https://www.youtube.com/watch?v=bA1TvhJKv8s)
+- 1993: [Little Al'e'inn Symposium](./aleinn-symposium/)
 - 1997: [Art Bell Coast to Coast](./art-bell/coast-to-coast-1977/)
 - 1997: [Interview with Don Garlits](https://www.youtube.com/watch?v=PmclCzGFotM)
 - 1997: [Paranormal World with Paul McKenna](https://www.youtube.com/watch?v=Og1ybql1CtE)
