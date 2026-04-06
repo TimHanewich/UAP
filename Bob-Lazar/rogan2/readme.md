@@ -1,4 +1,4 @@
-# Rogan 2
+# Bob Lazar on Joe Rogan: 2026
 From Bob's 2026 appearance on Joe Rogan Podcast [here](https://www.youtube.com/watch?v=Lb_1d68vx-g).
 
 Transcript [here](./transcript.txt).
